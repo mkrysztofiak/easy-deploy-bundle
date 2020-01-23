@@ -1,9 +1,9 @@
 {
-    "name": "easycorp/easy-deploy-bundle",
+    "name": "mkrysztofiak/easy-deploy-bundle",
     "type": "symfony-bundle",
     "description": "The easiest way to deploy Symfony applications",
     "keywords": ["deploy", "deployment", "deployer"],
-    "homepage": "https://github.com/EasyCorp/easy-deploy-bundle",
+    "homepage": "https://github.com/mkrysztofiak/easy-deploy-bundle",
     "license": "MIT",
     "authors": [
         {
